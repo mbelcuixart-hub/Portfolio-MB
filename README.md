@@ -21,7 +21,7 @@ This portfolio showcases my projects, technical skills, and analytical capabilit
 ## Contact
 
 - **Email:** mariabelencuixart@hotmail.com  
-- **LinkedIn:** (https://www.linkedin.com/in/mbelcuixart/)
+- **LinkedIn:** https://www.linkedin.com/in/mbelcuixart/
 
 
 ---
